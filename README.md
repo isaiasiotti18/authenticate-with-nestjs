@@ -20,7 +20,7 @@
 
 ## Stay in touch
 
-- Linkedin Author - [Isaias B. Santos](www.linkedin.com/in/isaiasiotti)
+- Linkedin Author - [Isaias B. Santos](https://www.linkedin.com/in/isaiasiotti)
 
 ## License
 
